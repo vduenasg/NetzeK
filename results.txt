@@ -10,3 +10,109 @@ On branch master
 Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : PC-NZK
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : gilatla.com
+                                       cpe.tdp.com
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Killer E2500 Gigabit Ethernet Controller
+   Physical Address. . . . . . . . . : E0-D5-5E-A1-E5-8F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (2) I219-V
+   Physical Address. . . . . . . . . : E0-D5-5E-A1-E5-8E
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 11:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 42-A5-EF-F2-A5-F2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 40-A5-EF-F2-A5-F2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet1
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-01
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::d1ea:23fe:c7c5:8bd4%18(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.225.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 369119318
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-ED-12-ED-E0-D5-5E-A1-E5-8F
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : VMware Virtual Ethernet Adapter for VMnet8
+   Physical Address. . . . . . . . . : 00-50-56-C0-00-08
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::591c:9a5:d650:4911%16(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.150.1(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 419450966
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-ED-12-ED-E0-D5-5E-A1-E5-8F
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek 8812AU Wireless LAN 802.11ac USB NIC
+   Physical Address. . . . . . . . . : 40-A5-EF-F2-A5-F2
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::5073:b191:4674:e6a%21(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.16.10.43(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.192
+   Lease Obtained. . . . . . . . . . : Saturday, April 18, 2020 9:49:48
+   Lease Expires . . . . . . . . . . : Monday, April 20, 2020 9:05:10
+   Default Gateway . . . . . . . . . : 172.16.10.1
+   DHCP Server . . . . . . . . . . . : 172.16.10.1
+   DHCPv6 IAID . . . . . . . . . . . : 440444399
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-22-ED-12-ED-E0-D5-5E-A1-E5-8F
+   DNS Servers . . . . . . . . . . . : 1.1.1.1
+                                       8.8.8.8
+   NetBIOS over Tcpip. . . . . . . . : Enabled
