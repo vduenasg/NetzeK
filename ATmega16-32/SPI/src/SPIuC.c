@@ -5,8 +5,8 @@
  * Info: www.netzek.com
  
 @Ejemplo:
-Este programa se comunica con el RTC DS3234, el programa coloca los segundos 
-iniciales a 50 y empieza a leer los segundos en adelante.
+Este programa se comunica con el RTC DS3234, coloca los segundos 
+iniciales a 50 y empieza a leer en adelante.
 
 Al trabajar con esta librería debemos modificar las definiciones de los pines 
 que se usen para la comunicación SPI en el archivo "SPI.h", en el caso del 
