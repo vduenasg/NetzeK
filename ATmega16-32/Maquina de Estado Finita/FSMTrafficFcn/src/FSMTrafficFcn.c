@@ -4,8 +4,7 @@
  * Author: Victor Dueñas Guardia
  * Info: www.netzek.com
  
- Implementacion de una maquina de estado finita usando funciones, mas info:
- http://www.netzek.com/2014/09/maquina-de-estado-finita-fsm.html
+ Implementacion de una maquina de estado finita usando funciones
  */ 
  
 #include <avr/io.h>
